@@ -22,7 +22,6 @@ Terraform templates provide a set of HCL templates to manage AWS resources using
 <!-- TECHNOLOGIES -->
 ### Built With
 
-Terraform templates was made <span style="color: #e25555;">&#9829;</span> based on:
 * [Terraform](https://www.terraform.io)
 
 <!-- GETTING STARTED -->
