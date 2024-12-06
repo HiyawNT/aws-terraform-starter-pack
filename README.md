@@ -38,7 +38,7 @@ Before running terraform templates, download [terraform client](https://www.terr
 
 1. Clone the repo:
 ```sh
-git clone https://github.com/aminueza/terraform-templates.git
+git clone https://github.com/HiyawNT/aws-terraform-starter-pack.git
 ```
 2. Access the desired terraform template and fill out all [variables](iam_roles/variables.tf):
 ```sh
